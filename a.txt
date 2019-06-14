@@ -1,0 +1,3 @@
+#master config 
+user.name=robin
+user.age=26
