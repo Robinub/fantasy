@@ -1,0 +1,3 @@
+#test for config 
+user.name=ivy
+user.age=10
